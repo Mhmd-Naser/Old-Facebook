@@ -6,14 +6,14 @@
 
 
 
-<h1 align="center"> [MHMD-TOOL]</h1>
+<h1 align="center"> [MHMD NASER-TOOL]</h1>
 
-<h2 align="center">  FB CLONING TOOL </h2>
+<h2 align="center">  FB OLD CLONING TOOL </h2>
 
 
 ## <b>installation</b>
 
-”° _CLONE FULL OK IDZ_
+”° _CLONE FULL OK ID_
 
 
 - `pkg update`
@@ -23,12 +23,12 @@
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
-- `rm -rf MHB`
-- `git clone https://github.com/mhmdnaser777/Old-Facebook-.git`
-- `cd MHB`
-- `python MHB.py`
+- `rm -rf `
+- `git clone https://github.com/Mhmd-Naser/Old-Facebook.git`
+- `cd Old-Facebook`
+- `python MHN.py`
 
 
 
  ___This Tools is FREE___</br>
- https://t.me/mhmd_naser
+                         https://t.me/mhmd_naser

@@ -1,8 +1,9 @@
+
 <h2>🔻MHMD_NASER🔻 </h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=Welcome+To+MHB+Profile+COMMND+Enjoy%F0%9F%A4%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=Welcome+To+MhmdNaser+Profile+COMMND+Enjoy%F0%9F%A4%9F)](https://git.io/typing-svg)
 
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-MHB-TOOL-dimgray?style=flat-square&logo=github)](https://github.com/MHB-TOOL)<br> [![Facebook](https://img.shields.io/badge/Facebook-ZULFIQAR-BALOCH-blue?style=flat-square&logo=facebook)](https://www.facebook.com/ZEEKO404)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-MHB-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923273988991)
+<b></b> </br> <br>[!https://github.com/mhmdnaser777/Old-Facebook-)](https://github.com/MhmdNaser777)<br> [![Facebook](https://img.shields.io/badge/Facebook-https://www.facebook.com/share/uapkeepbfxfyGLN9/facebook)](https://www.facebook.com/mhmd.naser.3mara)<br> [![Telegram](https://t.me/mhmd_naser)
 
 
 
@@ -24,7 +25,7 @@
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf MHB`
-- `git clone --depth=1 https://github.com/MHB-TOOL/MHB`
+- `git clone https://github.com/mhmdnaser777/Old-Facebook-.git`
 - `cd MHB`
 - `python MHB.py`
 

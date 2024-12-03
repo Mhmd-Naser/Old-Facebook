@@ -26,7 +26,7 @@
 - `rm -rf Old-Facebook`
 - `git clone https://github.com/Mhmd-Naser/Old-Facebook.git`
 - `cd Old-Facebook`
-- `python MHN.py`
+- `python MNaser.py`
 
 
 
